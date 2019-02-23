@@ -9,13 +9,13 @@ $(window).load(function () {
 
 
     //  isotope
-    var $container = $('.portfolio_container');
+    var $container = $('.blog_container');
     $container.isotope({
         filter: '*',
     });
 
-    $('.portfolio_filter a').click(function () {
-        $('.portfolio_filter .active').removeClass('active');
+    $('.blog_filter a').click(function () {
+        $('.blog_filter .active').removeClass('active');
         $(this).addClass('active');
 
         var selector = $(this).attr('data-filter');
