@@ -1177,3 +1177,11 @@ textarea:focus {
         line-height: 30px;
     }
 }
+
+.ion-social {
+  opacity: 0.6;
+}
+
+.ion-social:hover {
+  opacity: 1;
+}
