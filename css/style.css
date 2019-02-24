@@ -1185,3 +1185,8 @@ textarea:focus {
 .ion-social:hover {
   opacity: 1;
 }
+
+.advertisement {
+  float: left;
+  margin-left: 50px;
+}
