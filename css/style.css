@@ -1188,5 +1188,6 @@ textarea:focus {
 
 .advertisement {
   float: left;
-  margin-left: 50px;
+  padding-left: 25px;
+  padding-top: 25px;
 }
