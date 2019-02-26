@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://www.lawyerblog.info/sitemap.xml
+Host: www.lawyerblog.info
