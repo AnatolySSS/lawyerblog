@@ -1,0 +1,4 @@
+.table__in__article tr td {
+  border-collapse: collapse;
+  border: 1px solid #999;
+}
